@@ -1,0 +1,22 @@
+.container {
+    width: 1200px;
+    min-height: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    color: #131313;
+}
+
+/* .min-height {
+    min-height: 800px;
+} */
+
+.start {
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
+}

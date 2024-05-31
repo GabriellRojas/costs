@@ -2,6 +2,6 @@
 
 Aplicação de uma ferramenta de gestão e controle de orçamento de projetos.
 
-### Projeto desenvolvido pelo curso de ReactJS do <a href="https://www.youtube.com/@MatheusBattisti">Hora de Codar</a> 💜
+### Projeto desenvolvido seguindo o curso de ReactJS do <a href="https://www.youtube.com/@MatheusBattisti">Hora de Codar</a> 💜
 
 <img src="./public/img/project_interface.png">
